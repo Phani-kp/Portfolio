@@ -328,7 +328,7 @@ nav .fas{
     display: none;
 }
 
-@media only screen and (max-width: 00px){
+@media only screen and (max-width: 600px){
     #header{
         background-image: url(images/phone-background.png);
     }
@@ -681,7 +681,7 @@ nav .fas{
             display: none;
         }
         
-        @media only screen and (max-width: 600px){
+        @media only screen and (max-width: 300px){
             #header{
                 background-image: url(images/phone-background.png);
             }
