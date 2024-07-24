@@ -330,7 +330,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/phone-background.png);
+        background-image: url(images/phonebackground.png);
     }
     .header-text{
         margin-top: 100%;
@@ -683,7 +683,7 @@ nav .fas{
         
         @media only screen and (max-width: 600px){
             #header{
-                background-image: url(images/phone-background.png);
+                background-image: url(images/phonebackground.png);
             }
             .header-text{
                 margin-top: 100%;
